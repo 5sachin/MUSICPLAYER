@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="BACKGROUND"
+        android:id="@+id/background"
+        />
+    <item
+        android:title="TERMS AND SERVICES"
+        android:id="@+id/terms"
+        />
+
+</menu>
